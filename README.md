@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olaf-Klein
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software and Game Development
 - 🌱 I’m currently learning to Code
 - 📫 How to reach me https://www.linkedin.com/in/olaf-klein-bbb82a2aa/
 - ⚡ Fun fact: I don't like pronouns
